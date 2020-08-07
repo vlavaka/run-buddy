@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -267,7 +268,8 @@ footer a {
 }
 
 .contact h2 {
-    color: #fec138;
+    color: #fce138;
+    font-size: 30px;
 }
 
 .contact-info iframe {
