@@ -273,6 +273,18 @@ footer a {
     display: flex;
 }
 
+.trainer-1 {
+    background-image: url("../images/trainer-1.jpg");
+}
+
+.trainer-img {
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    padding: 15px;
+    align-items: ???;
+}
+
 .trainer-bio h3 {
     font-size: 28px;
 }
